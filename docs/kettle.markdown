@@ -2,7 +2,7 @@
 title: Markdown demo
 layout: default
 nav_order: 2
-has_childres: yes
+has_children: yes
 has_toc: false
 ---
 
