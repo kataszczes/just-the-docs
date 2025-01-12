@@ -8,3 +8,4 @@ aux_links:
   Template Repository: https://github.com/kataszczes/just-the-docs
 
 footer_content: "This is a footer"
+heading_anchors: true
