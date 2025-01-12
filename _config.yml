@@ -10,3 +10,4 @@ aux_links:
 footer_content: "This is a footer"
 heading_anchors: true
 favicon_ico: "/images/favicon.ico"
+search_enabled: true
