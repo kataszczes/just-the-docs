@@ -1,7 +1,8 @@
 ---
 title: kettle5
 layout: default
-nav_order: 6
+parent: kettle4
+nav_order: 1
 ---
 This user manual includes information on usage, cleaning and maintenance to help you keep the kettle in good condition and prevent accidents. To use the electric kettle safely and efficiently, follow these instructions.
 
